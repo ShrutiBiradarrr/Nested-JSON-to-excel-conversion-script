@@ -1,5 +1,6 @@
 # How to run this file
-inatall nodejs 
+
+Need to install nodejs from official website
 
 ## Available Scripts
 
